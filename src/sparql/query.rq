@@ -1,0 +1,16 @@
+PREFIX id: <https://libraria.com/>
+PREFIX item: <https://libraria.com/ns/item#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?Judul ?Penulis ?Penerbit ?Harga ?Bahasa ?Genre ?TahunRilis
+WHERE
+{ 
+    ?items
+        item:Judul          ?Judul ;
+        item:Penulis        ?Penulis ;
+        item:Penerbit       ?Penerbit ;
+        item:Harga          ?Harga ;
+        item:Bahasa         ?Bahasa ;
+        item:Genre          ?Genre ;
+        item:TahunRilis     ?TahunRilis .
+}

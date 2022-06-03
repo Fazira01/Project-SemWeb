@@ -1,0 +1,140 @@
+@prefix id: <https://libraria.com/> .
+@prefix item: <https://libraria.com/ns/item#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#Books
+
+id:A001
+    item:Judul          "Bumi" ;
+    item:Penulis        "Tere Liye" ;
+    item:Penerbit       "Gramedia" ;
+    item:Harga          "RP 80.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Fiksi, Petualangan" ;
+    item:TahunRilis     "2014" .
+
+id:A002
+    item:Judul          "Dikta & Hukum" ;
+    item:Penulis        "Dhia'an Farah" ;
+    item:Penerbit       "Asoka Aksara" ;
+    item:Harga          "Rp 85.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Roman, Komedi" ;
+    item:TahunRilis     "2021" .
+    
+id:A003
+    item:Judul          "Everything, Everything" ;
+    item:Penulis        "Nicola Yoon" ;
+    item:Penerbit       "Spring(Hutamedia)" ;
+    item:Harga          "Rp 78.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Fiksi, Roman" ;
+    item:TahunRilis     "2016" .
+
+id:A004
+    item:Judul          "Auntumn in Paris" ;
+    item:Penulis        "Ilana Tan" ;
+    item:Penerbit       "Gramedia" ;
+    item:Harga          "Rp 67.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Roman, Fiksi" ;
+    item:TahunRilis     "2014" .
+
+id:A005
+    item:Judul          "To All the Boys I've Loved Before" ;
+    item:Penulis        "Jenny Han" ;
+    item:Penerbit       "Spring" ;
+    item:Harga          "Rp 88.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Drama, Roman, Komedi" ;
+    item:TahunRilis     "2015" .
+    
+id:A006
+    item:Judul          "Si Putih" ;
+    item:Penulis        "Tere Liye" ;
+    item:Penerbit       "Gramedia" ;
+    item:Harga          "Rp 85.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Fiksi, Fantasi" ;
+    item:TahunRilis     "2021" .
+
+id:A007
+    item:Judul          "Thirteen Reasons Why" ;
+    item:Penulis        "Jay Asher" ;
+    item:Penerbit       "Spring" ;
+    item:Harga          "Rp 75.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Drama, Misteri" ;
+    item:TahunRilis     "2011" .
+
+id:A008
+    item:Judul          "Summer in Seoul" ;
+    item:Penulis        "Ilana Tan" ;
+    item:Penerbit       "Gramedia" ;
+    item:Harga          "Rp 80.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Drama, Roman" ;
+    item:TahunRilis     "2006" .
+    
+id:A009
+    item:Judul          "Eleanor & Park" ;
+    item:Penulis        "Rainbow Rowell" ;
+    item:Penerbit       "Fantasious" ;
+    item:Harga          "Rp 100.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Fiksi, Roman" ;
+    item:TahunRilis     "2012" .
+
+id:A010
+    item:Judul          "Kau, Aku dan Sepucuk Angpau Merah" ;
+    item:Penulis        "Tere Liye" ;
+    item:Penerbit       "Gramedia" ;
+    item:Harga          "Rp 89.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Roman" ;
+    item:TahunRilis     "2013" .
+
+id:A011
+    item:Judul          "Maaf Tuhan Aku Hampir Menyerah" ;
+    item:Penulis        "Alfialghazi" ;
+    item:Penerbit       "SAHIMA" ;
+    item:Harga          "Rp 60.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Motivasi" ;
+    item:TahunRilis     "2021" .
+    
+id:A012
+    item:Judul          "Fangirl" ;
+    item:Penulis        "Rainbow Rowell" ;
+    item:Penerbit       "Fantasious" ;
+    item:Harga          "Rp 80.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Fiksi, Drama" ;
+    item:TahunRilis     "2013" .
+
+id:A013
+    item:Judul          "Anjing Musim Semi" ;
+    item:Penulis        "Cecillia Wang" ;
+    item:Penerbit       "Gramedia" ;
+    item:Harga          "Rp 130.000,-" ;
+    item:Bahasa         "Indonesia" ;
+    item:Genre          "Urban, Fantasi" ;
+    item:TahunRilis     "2019" .
+
+id:A014
+    item:Judul          "Black House" ;
+    item:Penulis        "Patrick Kellan" ;
+    item:Penerbit       "Thema" ;
+    item:Harga          "Rp 110.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Horror, Fiksi" ;
+    item:TahunRilis     "2021" .
+
+id:A015
+    item:Judul          "Emperor's Consort" ;
+    item:Penulis        "Sairaakira" ;
+    item:Penerbit       "Fantasious" ;
+    item:Harga          "Rp 84.000,-" ;
+    item:Bahasa         "Inggris" ;
+    item:Genre          "Fantasi" ;
+    item:TahunRilis     "2017" .

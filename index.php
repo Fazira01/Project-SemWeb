@@ -92,7 +92,7 @@
                 </ul>
                 <form class="d-flex" role="search" action="" method="post" id="nameform">
                     <input class="form-control me-2" type="search" placeholder="Ketik buku disini" aria-label="Search" name="search">
-                    <button class="btn btn-outline-info" type="submit">Search</button>
+                    <button class="btn btn-outline-info" type="submit">Cari</button>
                 </form>
             </div>
         </div>
